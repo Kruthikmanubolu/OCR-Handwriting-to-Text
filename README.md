@@ -23,7 +23,7 @@ This is a React-based application that allows users to upload handwritten images
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repository-url.git
+   git clone https://github.com/Kruthikmanubolu/OCR-Handwriting-to-Text.git
    cd your-repository-folder
    ```
 2. Install dependencies:
