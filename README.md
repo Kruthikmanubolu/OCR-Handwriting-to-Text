@@ -71,6 +71,3 @@ This app requires a backend server to handle OCR processing using Google Cloud V
 
 ## License
 This project is licensed under the MIT License.
-
-## Author
-Developed by Lakshman Kruthik.
